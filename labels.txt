@@ -1,0 +1,10 @@
+0 bedak
+1 bunga
+2 alquran
+3 gelas
+4 bantal leher
+5 tas
+6 jam tangan
+7 powerbank
+8 parfum
+9 kacamata
